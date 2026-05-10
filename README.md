@@ -1,14 +1,16 @@
-# RSVPly
+<p align="center">
+  <img src="public/logo.png" alt="RSVPly Logo" width="180" />
+</p>
 
-RSVPly is a modern event management and RSVP web application built with React and Firebase. The app allows users to create events, generate unique RSVP links, collect guest responses, and track attendance through a real-time dashboard.
+<h1 align="center">RSVPly</h1>
+
+<p align="center">
+  A React and Firebase web app for creating events, sharing RSVP links, collecting guest responses, and tracking attendance in real time.
+</p>
 
 ## Live Demo
 
-[View RSVPly](PASTE-YOUR-WEB-APP-LINK-HERE)
-
-## Demo Video
-
-[Watch Demo](PASTE-YOUR-VIDEO-LINK-HERE)
+[View RSVPly](https://rsvply-5f88d.web.app/)
 
 ## Overview
 
