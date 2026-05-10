@@ -256,6 +256,9 @@ Improved analytics dashboard
 Custom domain setup
 
 
-### Contributors
-Thabani — Event creation, RSVP page, dashboard, guest management
-Ofentse — Database design, authentication, analytics
+## Contributors
+
+| Contributor | Responsibilities |
+|---|---|
+| [Thabani Ndlozi](https://github.com/Thabani-Ndlozi) | Event creation, RSVP page, dashboard, guest management |
+| [Ofentse Vilakazi](https://github.com/Ofentse-Vilakazi) | Database design, authentication, analytics |
